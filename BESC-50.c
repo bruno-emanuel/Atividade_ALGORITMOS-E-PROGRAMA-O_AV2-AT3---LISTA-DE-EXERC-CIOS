@@ -1,7 +1,6 @@
 /*
-Aluno: Bruno Emanuel da Silva Cruz
-RA: 0028483
-Exercicio: Exercicio 50
+* Aluno:     BRUNO EMANUEL DA SILVA CRUZ - RA 0028483
+* Exercício: BESC 50 - Exercicio 50
 */
 
 #include <stdio.h>

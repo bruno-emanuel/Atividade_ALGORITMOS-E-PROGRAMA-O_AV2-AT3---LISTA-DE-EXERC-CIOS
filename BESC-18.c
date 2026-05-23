@@ -1,7 +1,6 @@
 /*
-Aluno: Bruno Emanuel da Silva Cruz
-RA: 0028483
-Exercicio: Login simples
+* Aluno:     BRUNO EMANUEL DA SILVA CRUZ - RA 0028483
+* Exercício: BESC 18 - Login simples
 */
 
 #include <stdio.h>

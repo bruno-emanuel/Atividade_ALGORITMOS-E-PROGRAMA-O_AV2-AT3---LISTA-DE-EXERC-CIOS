@@ -1,0 +1,23 @@
+
+ATIVIDADE DE ALGORITMOS EM C
+Aluno: Bruno Emanuel da Silva Cruz
+RA: 0028483
+
+Os arquivos foram organizados conforme solicitado pelo professor:
+BESC-14.c até BESC-60.c
+
+Cada exercício possui:
+- Comentários com nome e RA;
+- Estrutura organizada;
+- Uso correto de IF, FOR, WHILE, DO...WHILE e SWITCH;
+- Entradas e saídas simples para facilitar o entendimento.
+
+Como executar:
+1. Abra o Dev-C++, CodeBlocks ou VS Code.
+2. Compile o arquivo desejado.
+3. Execute o programa.
+4. Digite os valores pedidos pelo sistema.
+
+Exemplo de compilação no terminal:
+gcc BESC-14.c -o programa
+./programa

@@ -1,7 +1,6 @@
 /*
-Aluno: Bruno Emanuel da Silva Cruz
-RA: 0028483
-Exercicio: Quantas caixas cabem dentro do caminhao
+* Aluno:     BRUNO EMANUEL DA SILVA CRUZ - RA 0028483
+* Exercício: BESC 15 - Quantas caixas cabem dentro do caminhao
 */
 
 #include <stdio.h>

@@ -1,7 +1,6 @@
 /*
-Aluno: Bruno Emanuel da Silva Cruz
-RA: 0028483
-Exercicio: Multiplo de 3 e/ou 5
+* Aluno:     BRUNO EMANUEL DA SILVA CRUZ - RA 0028483
+* Exercício: BESC 16 - Multiplo de 3 e/ou 5
 */
 
 #include <stdio.h>
