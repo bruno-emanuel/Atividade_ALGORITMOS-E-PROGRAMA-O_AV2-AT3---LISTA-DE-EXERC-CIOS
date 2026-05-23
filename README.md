@@ -16,9 +16,9 @@
 
 ---
 
-╔════════════════════════════════════╗
-║            DESCRIÇÃO              ║
-╚════════════════════════════════════╝
+
+           DESCRIÇÃO              
+
 Este projeto contém a resolução da atividade **AV2 - AT3**, referente à disciplina de **Algoritmos e Programação**. A proposta consiste em desenvolver exercícios práticos utilizando lógica de programação e conceitos fundamentais da linguagem C.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
